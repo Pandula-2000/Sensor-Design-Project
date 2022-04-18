@@ -1,2 +1,5 @@
 # Sensor-Design-Project
-2D Laser Rangefinder for Robotic Object Detection
+##2D Laser Rangefinder for Robotic Object Detection
+- The attached PDF explains everything about the project.
+- This was a group project done by 3 individuals from University Of Peradeniya.
+- Arduino platform was used in this project. 
